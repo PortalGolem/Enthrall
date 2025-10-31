@@ -1,0 +1,5 @@
+CMake?
+
+Learn about frameworks and compiling ffor multiple platforms (I'll probably use SDL so building for multiple platforms is easy)
+
+work out how the game compiles and runs

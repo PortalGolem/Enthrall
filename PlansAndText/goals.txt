@@ -1,0 +1,37 @@
+Woo! a new idea and a new goal. My goal is to make a game engine for making text based games, 2d games, and also use bits and pieces for 3D.
+
+I don't want to list many eatures but I want to lay some goals that the engine should be able to do
+
+  compile for Linux and Windows with potential to compile for consoles.
+
+  work well with hyprland and use nvim as the primary code editor and also integrate with blender and asprite easily.
+
+  make things qickly and make it easy to draw from and search through past projects without impacting loading times.
+
+  One button to compile and test for Linux
+
+  works well with git
+
+A simple set of goals I think but I've no real idea how I'll complete them.
+
+
+As for engine development some of my goals are as follows
+
+  compile in one command/hotkey
+
+  test quickly
+
+  a git hub repo
+
+
+I think thats good for now I'll come back as I evaluate each goal.
+
+Some personal goals / the purpose of this project
+  
+  Learn a lot about the structure of a program
+
+  make something that I want to show off
+
+  Learn C programming
+
+  Learn about compiling, metaprogramming, and potentially interperters for scripting
