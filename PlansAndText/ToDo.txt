@@ -11,7 +11,9 @@ Other questions that need answering
     FLOWCHART!!! its in the "PlansAndText" file and its called "FLOWCHART!!!"
   Where do I start?
     probaly with one of the tools. So what comes first?
-      Maybe I should refer to the flowchart to figure out the bare minimum and then come back to this.
+      Maybe I should refer to the flowchart to figure out the bare minimum and then come back to this
+
+
   What is SDL doing?
     Running level editors, import menus, game runtime, and more.
   What is love?
@@ -25,3 +27,17 @@ Other questions that need answering
     This game engine is fun to use.
 
 gh Rep Repo CREATED !!!
+
+
+
+
+GETTING STARTED
+
+after reviewing how I want everything to work I've made a decision of where to start
+  MVP:
+    A command that opens a file manager in the area specified and then uses a settings page to determine what programs it should open when I open files of different types.
+    A Level editor editor that allows me to configure how scene data is configured graphically. (Essentially a UI for making UIs which can be used to make levels, export arbitrarry level data, or modify peramaters in realtime.
+    A way to compile logic, graphics, audio, and levels into one executable.
+
+
+
