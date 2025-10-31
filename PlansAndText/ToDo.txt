@@ -1,5 +1,27 @@
-CMake?
+CMake? CMAKE!
 
 Learn about frameworks and compiling ffor multiple platforms (I'll probably use SDL so building for multiple platforms is easy)
 
-work out how the game compiles and runs
+work out how the game compiles and runs 
+  how to complie one program with another?
+  Do I need to compile one program with another?
+
+Other questions that need answering
+  How do I want to use the game engine? (I think I need a flowchart)
+    FLOWCHART!!! its in the "PlansAndText" file and its called "FLOWCHART!!!"
+  Where do I start?
+    probaly with one of the tools. So what comes first?
+      Maybe I should refer to the flowchart to figure out the bare minimum and then come back to this.
+  What is SDL doing?
+    Running level editors, import menus, game runtime, and more.
+  What is love?
+    I don't know (please, baby, don't hurt me)
+  what exacly is a game engine?
+    A collection of tools combined into one to make making games easier.
+  What is *this* game engine?
+    this game engine is a junction between existing programs such as aseprite, blender, nvim, compilers, and more.
+    This game engine also is a visual editor for making level editors. UI tools, Audio tools, rendering tools, a core "loop" for my games, a way to resuse code, networking tools, and more.
+    This game engine is a way for me to quickly and effectively create whatever I'm thinking about, visualise and implement my ideas, and tell stories.
+    This game engine is fun to use.
+
+gh Rep Repo CREATED !!!
